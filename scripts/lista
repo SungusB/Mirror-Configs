@@ -1,0 +1,16 @@
+
+/root/secHardening/00_sshPortChange.sh
+/root/secHardening/02_whitelistConf.sh
+/root/secHardening/03_setupAquisition.sh
+/root/secHardening/01_crowdSecAgentInstall.sh
+/mnt/mirror/sync_freebsd_mirror.sh
+/mnt/mirror/ubuntu_mirrorbuild.sh
+/mnt/mirror/freebsd/development/CVS-archive/exporter/driver.sh
+/mnt/mirror/freebsd/development/CVS-archive/exporter/run.sh
+/mnt/mirror/freebsd/doc/da_DK.ISO8859-1/articles/pxe/pkgmaker.sh
+/mnt/mirror/rocky_mirrorsync.sh
+/mnt/mirror/until.sh
+/mnt/mirror/openbsd_sync.sh
+/mnt/mirror/syncarchriscvrepo.sh
+/mnt/mirror/syncarchrepo.sh
+/mnt/mirror/voidlinux_sync.sh
